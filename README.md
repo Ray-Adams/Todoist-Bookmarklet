@@ -20,8 +20,7 @@ javascript:(function(){var h = prompt('Enter your desired ToDoIst window height 
 3. A prompt will immediately appear on the screen asking for your desired Todoist window height (in pixels), which will be followed by another prompt asking for the width. (NOTE: Make sure to only enter a **number**, otherwise, the bookmarklet will not function properly.)
 4. After submitting both prompts, you will get an alert telling you to copy and paste the code the bookmarklet has generated into a new bookmark (same steps you took to install `custom.js`).
 5. Try out your newly-generated, customized bookmarklet, and if you like it, you can go ahead and delete the `custom.js` bookmark. If not, you can experiment with different dimensions, until you get a bookmarklet that suits your taste.
-<br><br>
-**NOTE**: You can view the beautified JS file here: [custom.js](../master/Beautified/custom.js)
+<p><strong>NOTE</strong>: You can view the beautified JS file here: <a href="https://github.com/Ray-Adams/Todoist-Bookmarklet/blob/master/Beautified/custom.js">custom.js</a></p>
 
 ### Usage
 Simply click the bookmarklet when needed, and a Todoist window will pop-up on your screen, where you will be able to add tasks, set due dates, plan projects, prioritize tasks by color, and use all of the other features that the extension has, while consuming less resources. Using a bookmarklet generated from `custom.js` will perform the same as `classic.js`, but with different dimensions.
