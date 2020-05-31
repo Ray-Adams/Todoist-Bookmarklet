@@ -1,4 +1,4 @@
-# Todoist-Bookmarklet
+# Todoist Bookmarklet
 A resource-light bookmarklet alternative for the Todoist extension.
 
 ## Installation
@@ -11,7 +11,7 @@ javascript:window.open("https://todoist.com",null,"width=480, height=550").focus
 ```
 
 ### Custom.min.js
-1. Copy and paste the code below into the URL section of a new bookmark.
+1. Copy and paste the code below into the URL section of a new bookmark. (TIP: Triple click the code below to quickly copy the bookmarklet's contents.)
 ```javascript
 javascript:(function(){var h=prompt("Enter your desired ToDoIst window height (in pixels):"),w=prompt("Enter your desired ToDoIst window width (in pixels):");alert("Copy and paste the following code into the URL section of a new bookmark: javascript:window.open('https://todoist.com',null,'width="+w+", height="+h+"').focus();");})();
 ```
