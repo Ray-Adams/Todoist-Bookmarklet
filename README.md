@@ -20,10 +20,10 @@ javascript:(function(){var h=prompt("Enter your desired ToDoIst window height (i
 4. After submitting both prompts, you will get an alert telling you to copy and paste the code the bookmarklet has generated into a new bookmark (same steps you took to install `custom.js`).
 5. Try out your newly-generated, customized bookmarklet, and if you like it, you can go ahead and delete the `custom.js` bookmark. If not, you can experiment with different dimensions, until you get a bookmarklet that suits your taste.
 
-### Usage
+## Usage
 Simply click the bookmarklet when needed, and a Todoist window will appear on your screen, where you will be able to add tasks, set due dates, plan projects, prioritize tasks by color, and use all of the other features that the extension has, while consuming less resources. Keep in mind that a bookmarklet generated from `custom.js` will function the same as `classic.js`, but with different dimensions.
 
-### Compatability
+## Compatability
 Browser | Supported
 --------|------------
 Chrome |     ✓
