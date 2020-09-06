@@ -1,1 +1,0 @@
-javascript:(function(){var h=prompt("Enter your desired ToDoIst window height (in pixels):"),w=prompt("Enter your desired ToDoIst window width (in pixels):");alert("Copy and paste the following code into the URL section of a new bookmark: javascript:window.open('https://todoist.com',null,'width="+w+", height="+h+"').focus();");})();
